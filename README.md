@@ -1,1 +1,1 @@
-·# The Simplest ERP Ever
+# The Simplest ERP Ever V0.1.0
